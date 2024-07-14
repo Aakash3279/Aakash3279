@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on backend development.
 
-🌱 I’m currently learning Core Java.
+🌱 I’m currently learning Core Java and backend development with node.js and express.js.
 
 🤔 I’m looking for help with optimizing backend performance.
 
