@@ -8,11 +8,11 @@
   
 - 🤔 I’m seeking guidance on **optimizing backend performance**.
   
-- 💬 Ask me about **AWS cloud services** and **React.js web development**.
+- 💬 Ask me about **AWS cloud services** and **MERN or PERN Stack  web development**.
   
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/guruaakash/).
   
-- ⚡ **Fun fact:** I developed a **Passport DB System** using AWS fundamentals during my cloud development training!  
+- ⚡ **Fun fact:** I developed a **Passport DB System** using AWS fundamentals and front-end during my cloud development training!  
 
 ---
 
