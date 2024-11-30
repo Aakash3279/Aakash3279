@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55">&nbsp;𝐇𝐞𝐥𝐥𝐨, 𝐈’𝐦 𝐆𝐮𝐫𝐮 𝐀𝐚𝐤𝐚𝐬𝐡
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55">&nbsp;𝗛𝗲𝗹𝗹𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲, 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗚𝘂𝗿𝘂 𝗔𝗮𝗸𝗮𝘀𝗵
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
      width="300" 
