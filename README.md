@@ -58,7 +58,8 @@
 ### 📊 My Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakash3279&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash3279&theme=dark&hide_border=false" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash3279&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash3279&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakash3279&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash3279&theme=dark&hide_border=false" alt="GitHub Streak" height="200" />
+  
 </div>  
